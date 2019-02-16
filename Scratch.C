@@ -3,6 +3,6 @@
 #include<conio.h>
 void main()
 {
-printf("I am learning to use Github!\n");
-
+  printf("1.I am learning to use Github!\n");
+  printf("2.Learning to Edit the current code and submit :\n");
 }
